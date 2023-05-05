@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material/tab-bar": "^14.0.0"
+  }
+}
