@@ -165,12 +165,12 @@ app.onSync((body) => {
   };
 });
 
-app.onQuery(async (body) => {
+app.onQuery((body) => {
   return {
     requestId: body.requestId,
     payload: {
       devices: {
-        '123':{
+        'camera':{
           on: true,
           online: true, 
         }
