@@ -1,6 +1,6 @@
 # Implement CameraStream using WebRTC codelab sample code 
 
-This project contains the source for for the [Implement CameraStream using WebRTC codelab](https://codelabs.developers.google.com/codelabs/smarthome-camerastream-webrtc),
+This project contains the source for for the [Implement CameraStream using WebRTC codelab](https://developers.home.google.com/codelabs/smarthome-webrtc),
 which demonstrates how to stream from a local webcam to a Google Nest display device
 using a Firebase backend.
 
